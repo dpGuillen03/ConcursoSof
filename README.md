@@ -1,6 +1,4 @@
 # ConcursoSof
-Prueba Sofka
-Prueba técnica, proceso de selección Sofka
 
 Programa hecho en Java - Netbeans-
 
